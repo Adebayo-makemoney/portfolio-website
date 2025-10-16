@@ -40,10 +40,8 @@ It’s fully responsive, lightweight, and designed to leave a lasting impression
 
 ## 🖼️ Screenshot
 
-> *(Add an image named `screenshot.png` inside your repo and update the link below)*
-
 <p align="center">
-  <img src="./images/screenshot.png" alt="Portfolio Website Screenshot" width="800px"/>
+  <img src="./Screenshot.jpeg" alt="Portfolio Website Screenshot" width="800px"/>
 </p>
 
 ---
@@ -70,14 +68,10 @@ start index.html
 ```
 portfolio-website/
 │
+├── README.md
 ├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-├── images/
-│   └── (project images, logos, etc.)
-└── README.md
+├── styles.css
+└── script.js
 ```
 
 ---
