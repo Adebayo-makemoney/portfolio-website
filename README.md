@@ -1,111 +1,135 @@
-<h1 align="center">🌐 Adebayo's Portfolio Website</h1>
+<h1 align="center">🧮 Calculator Project</h1>
 
 <p align="center">
-  <a href="https://adebayo-makemoney.github.io/portfolio-website/"><strong>🌍 Live Demo</strong></a> •
+  <a href="https://adebayo-makemoney.github.io/calculator-project/"><strong>🌐 Live Demo</strong></a> •
   <a href="https://github.com/Adebayo-makemoney"><strong>👨‍💻 My GitHub</strong></a>
 </p>
 
 ---
 
-## 🧭 About the Project
+## 📖 About the Project
 
-This is my **personal portfolio website**, built to showcase my web development skills, projects, and creative work.  
-It’s fully responsive, lightweight, and designed to leave a lasting impression on clients and recruiters.
+This is a **simple yet functional calculator web app** built with **HTML, CSS, and JavaScript**.  
+It performs basic arithmetic operations, demonstrates DOM manipulation, and showcases frontend problem-solving skills.  
+The design focuses on simplicity, responsiveness, and smooth user experience — ideal for showcasing your web development skills.
 
 ---
 
 ## 🛠️ Built With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" alt="Tech Stack" />
 </p>
 
-- **HTML5** – structure and content  
-- **CSS3** – layout, animations, and responsiveness  
-- **JavaScript (Vanilla)** – interactivity and dynamic features  
-- **Git & GitHub** – version control and deployment  
+- **HTML5** — structure & layout  
+- **CSS3** — styling, responsiveness, and hover effects  
+- **JavaScript (ES6)** — core logic and interactivity  
+- **Git & GitHub** — version control and deployment  
 
 ---
 
-## 🎯 Features
+## ✨ Features
 
-✅ Clean, minimal, and modern design  
-✅ Responsive layout for all devices  
-✅ Interactive navigation and sections  
-✅ Project cards with live and GitHub links  
-✅ About section showcasing skills and tools  
-✅ Contact section with social media links  
+✅ Clean and responsive user interface  
+✅ Performs addition, subtraction, multiplication, and division  
+✅ Clear/reset button for quick start  
+✅ Error handling for invalid inputs (e.g., divide by zero)  
+✅ Easy to understand and extend for new features  
 
 ---
 
 ## 🖼️ Screenshot
 
+> *(Optional — Add a screenshot named `screenshot.png` in your repo and update the link below)*  
+
 <p align="center">
-  <img src="./Screenshot.jpeg" alt="Portfolio Website Screenshot" width="800px"/>
+  <img src="./images/screenshot.png" alt="Calculator Project Screenshot" width="400px" />
 </p>
 
 ---
 
 ## 🚀 Getting Started
 
-To run this project locally:
+You can run this project locally in a few steps:
 
 ```bash
-# Clone the repository
-git clone https://github.com/Adebayo-makemoney/portfolio-website.git
+# Clone this repository
+git clone https://github.com/Adebayo-makemoney/calculator-project.git
 
-# Navigate to project folder
-cd portfolio-website
+# Navigate into the folder
+cd calculator-project
 
-# Open in browser
+# Open in your browser
 start index.html
 ```
 
+That’s it! No dependencies or installation required — just open and start calculating 🧮
+
 ---
 
-## 📁 Folder Structure
+## 📂 Folder Structure
 
 ```
-portfolio-website/
+calculator-project/
 │
-├── README.md
 ├── index.html
 ├── styles.css
-└── script.js
+├── script.js
+├── screenshot.jpeg
+└── README.md
 ```
 
 ---
 
 ## 🧠 Future Improvements
 
-- Add a dark/light mode toggle 🌙  
-- Include form backend with Netlify / EmailJS 📩  
-- Integrate animations with AOS or GSAP ✨  
-- Add blog section for insights & tutorials 📝  
+Here are some planned enhancements to take the project further:
+
+- Add **keyboard input** support ⌨️  
+- Include **dark/light mode toggle** 🌙  
+- Add **sound effects or button animations** ✨  
+- Improve mobile responsiveness 📱  
+- Extend functionality (e.g., percentage, modulo, scientific mode) 🔢  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adebayo-makemoney&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Adebayo-makemoney&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adebayo-makemoney&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adebayo-makemoney&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Contributing
+
+Contributions are always welcome!  
+If you’d like to improve this project:
+
+1. **Fork** the repository  
+2. **Create a branch:** `git checkout -b feature-name`  
+3. **Commit changes:** `git commit -m "Add new feature"`  
+4. **Push to branch:** `git push origin feature-name`  
+5. **Open a Pull Request**
+
+---
+
+## 📬 Contact
 
 <p align="center">
-  <a href="https://github.com/Adebayo-makemoney" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Adebayo--makemoney-black?logo=github&style=for-the-badge" alt="GitHub" />
+  <a href="https://github.com/Adebayo-makemoney">
+    <img src="https://img.shields.io/badge/GitHub-Adebayo--makemoney-black?logo=github&style=for-the-badge" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&style=for-the-badge" alt="Email" />
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://adebayo-makemoney.github.io/portfolio-website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?logo=vercel&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-⭐ Don’t forget to star this repo if you like my work!  
-Made with ❤️ by Adebayo-makemoney
+⭐ **Don’t forget to star this repo if you like my work!**  
+Made with ❤️ by [**Adebayo-makemoney**](https://github.com/Adebayo-makemoney)
